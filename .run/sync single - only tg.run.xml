@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sync single - only tg" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="sync:single --tg=https://t.me/c/1715065579/28">
+    <method v="2" />
+  </configuration>
+</component>

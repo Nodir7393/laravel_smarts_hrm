@@ -1,0 +1,11 @@
+{
+    "name": "PromoteToAdmin",
+    "alias": "promotetoadmin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PromoteToAdmin\\Providers\\PromoteToAdminServiceProvider"
+    ],
+    "files": []
+}

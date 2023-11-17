@@ -1,0 +1,5 @@
+*.sqlite
+*.sqlite-journal
+/migrations/2022_12_14_200220_create_insta_media_table.php
+/migrations/2022_12_14_122019_create_insta_chats_table.php
+/migrations/2022_12_14_164703_create_insta_followers_table.php

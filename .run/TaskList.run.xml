@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TaskList" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="taskList:run">
+    <CommandLine>
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP 8_1" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>

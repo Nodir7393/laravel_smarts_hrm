@@ -1,0 +1,11 @@
+{
+    "name": "Envato",
+    "alias": "envato",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Envato\\Providers\\EnvatoServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="insta:comment-add" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="insta:comment-add --postid=3038520910100920567_1412527749 --comment=&quot;Test Comment&quot;">
+    <method v="2" />
+  </configuration>
+</component>

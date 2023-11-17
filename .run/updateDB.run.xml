@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="updateDB" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="update:db --channel_id=-1001477121556 --start=2023-03-03">
+    <CommandLine>
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP 8.1" />
+      </PhpTestInterpreterSettings>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>

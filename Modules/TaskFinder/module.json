@@ -1,0 +1,11 @@
+{
+    "name": "TaskFinder",
+    "alias": "taskfinder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TaskFinder\\Providers\\TaskFinderServiceProvider"
+    ],
+    "files": []
+}

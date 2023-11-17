@@ -1,0 +1,11 @@
+{
+    "name": "Camera",
+    "alias": "camera",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Camera\\Providers\\CameraServiceProvider"
+    ],
+    "files": []
+}

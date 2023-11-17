@@ -1,0 +1,11 @@
+{
+    "name": "HHParse",
+    "alias": "hhparse",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HHParse\\Providers\\HHParseServiceProvider"
+    ],
+    "files": []
+}

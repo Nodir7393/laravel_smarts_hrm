@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="insta:login team" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="insta:login --username=teampro.it.academy@gmail.com --password=_GHHFH4h">
+    <method v="2" />
+  </configuration>
+</component>

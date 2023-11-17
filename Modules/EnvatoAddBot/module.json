@@ -1,0 +1,11 @@
+{
+    "name": "EnvatoAddBot",
+    "alias": "envatoaddbot",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EnvatoAddBot\\Providers\\EnvatoAddBotServiceProvider"
+    ],
+    "files": []
+}

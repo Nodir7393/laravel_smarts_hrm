@@ -1,0 +1,11 @@
+{
+    "name": "TaskStatus",
+    "alias": "taskstatus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TaskStatus\\Providers\\TaskStatusServiceProvider"
+    ],
+    "files": []
+}

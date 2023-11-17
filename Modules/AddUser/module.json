@@ -1,0 +1,11 @@
+{
+    "name": "AddUser",
+    "alias": "adduser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AddUser\\Providers\\AddUserServiceProvider"
+    ],
+    "files": []
+}

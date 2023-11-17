@@ -1,0 +1,55 @@
+{
+    "_": "message",
+    "id": 1353,
+    "out": true,
+    "date": 1673067577,
+    "post": true,
+    "media": {
+        "_": "messageMediaDocument",
+        "spoiler": false,
+        "document": {
+            "_": "document",
+            "id": 5316641785521383905,
+            "date": 1673067577,
+            "size": 1605,
+            "dc_id": 2,
+            "mime_type": "text/html",
+            "attributes": [
+                {
+                    "_": "documentAttributeFilename",
+                    "file_name": "index.html"
+                }
+            ],
+            "access_hash": 4038212868812785542,
+            "file_reference": {
+                "_": "bytes",
+                "bytes": "BG/RxmsAAAVJY+u5tBaxWkyaoWcCyvi1LPUZvFo="
+            }
+        },
+        "nopremium": false
+    },
+    "views": 7,
+    "legacy": false,
+    "pinned": false,
+    "silent": false,
+    "message": "",
+    "peer_id": {
+        "_": "peerChannel",
+        "channel_id": 1876018795
+    },
+    "replies": {
+        "_": "messageReplies",
+        "replies": 0,
+        "comments": true,
+        "channel_id": 1896324242,
+        "replies_pts": 2294
+    },
+    "forwards": 0,
+    "edit_date": 1673067580,
+    "edit_hide": true,
+    "mentioned": false,
+    "noforwards": false,
+    "media_unread": false,
+    "from_scheduled": false
+}
+

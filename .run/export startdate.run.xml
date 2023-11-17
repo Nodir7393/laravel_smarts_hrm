@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="export startdate" type="PhpLocalRunConfigurationType" factoryName="PHP Console" singleton="false" path="$PROJECT_DIR$/artisan" scriptParameters="command:export --channelid=-1001536850711 --startdate=02.02.2023 --path=d:\HRM\Export\">
+    <method v="2" />
+  </configuration>
+</component>

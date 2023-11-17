@@ -1,0 +1,11 @@
+{
+    "name": "Database",
+    "alias": "database",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Database\\Providers\\DatabaseServiceProvider"
+    ],
+    "files": []
+}

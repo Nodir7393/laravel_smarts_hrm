@@ -1,0 +1,39 @@
+
+
+
+
+# tg_chats
+
+
+id
+name
+tg_id
+type    channel/group/supergroup/user
+username
+description
+mtproto - json
+
+--------------------
+
+# tg_messages
+
+chat_id
+tg_id
+from_id
+peer_id
+reply_to
+media - json
+mtproto - json
+
+--------------------
+
+# tg_users
+
+tg_id
+name
+username
+mtproto - json
+
+--------------------
+
+

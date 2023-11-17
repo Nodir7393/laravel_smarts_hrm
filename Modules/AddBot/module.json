@@ -1,0 +1,11 @@
+{
+    "name": "AddBot",
+    "alias": "addbot",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AddBot\\Providers\\AddBotServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BotButton",
+    "alias": "botbutton",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BotButton\\Providers\\BotButtonServiceProvider"
+    ],
+    "files": []
+}

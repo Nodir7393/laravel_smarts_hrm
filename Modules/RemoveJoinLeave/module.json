@@ -1,0 +1,11 @@
+{
+    "name": "RemoveJoinLeave",
+    "alias": "removejoinleave",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RemoveJoinLeave\\Providers\\RemoveJoinLeaveServiceProvider"
+    ],
+    "files": []
+}

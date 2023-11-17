@@ -1,0 +1,11 @@
+{
+    "name": "ALL",
+    "alias": "all",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ALL\\Providers\\ALLServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ManagerBot",
+    "alias": "managerbot",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ManagerBot\\Providers\\ManagerBotServiceProvider"
+    ],
+    "files": []
+}

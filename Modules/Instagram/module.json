@@ -1,0 +1,11 @@
+{
+    "name": "Instagram",
+    "alias": "instagram",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Instagram\\Providers\\InstagramServiceProvider"
+    ],
+    "files": []
+}

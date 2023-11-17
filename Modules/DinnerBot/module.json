@@ -1,0 +1,11 @@
+{
+    "name": "DinnerBot",
+    "alias": "dinnerbot",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DinnerBot\\Providers\\DinnerBotServiceProvider"
+    ],
+    "files": []
+}
